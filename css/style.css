@@ -1,0 +1,38 @@
+.container{
+	display: flex;
+	justify-content: space-around;
+}
+
+.blockOne {
+	width: 30%;
+	height:;
+	background-color: #AFC0EB;
+	border-radius: 25px;
+}
+
+.headerText{
+	font-family: Open Sans;
+	font-size: 45px;
+	text-align: center;
+}
+
+.orderImg{
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+	background-color: #AFC0EB;
+}
+.discText {
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
